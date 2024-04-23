@@ -1,0 +1,109 @@
+.aa {
+	background-color: rgb(224, 199, 161);
+}
+
+img {
+	height: 700px;
+	width: 1000px;
+
+}
+
+.main {
+	font-weight: bolder;
+	font-size: 100px;
+	text-align: center;
+	text-shadow: 5px 5px 10px white;
+	
+}
+
+.overview {
+	background-color: rgba(241, 226, 214, 0.25);
+	box-shadow: 20px 20px 20px #535a53;
+	font-family: Georgia;
+	padding: 25px 25px;
+	margin: 15px;
+	margin-top: 80px;
+	line-height: 30px;
+
+}
+
+.overview1 {
+	text-align: center;
+	font-size: 50px;
+}
+.biography h3{
+	line-height: 30px;
+} 
+.character li{
+	font-size: 22px;
+}
+
+.character p{
+	font-size: 18px;
+}
+/* .overview2{
+
+}
+.overview3{
+
+} */
+.biography{
+	background-color: rgba(241, 226, 214, 0.25);
+	box-shadow: 20px 20px 20px #535a53;
+	font-family: Georgia;
+	padding: 25px 25px;
+	margin: 15px;
+	margin-top: 80px;
+}
+.biography img {
+	height: 300px;
+	width: 300px;
+}
+
+.title {
+	text-align: center;
+	font-weight: bolder;
+	font-size: 20px;
+	text-align: center;
+	text-shadow: 5px 5px 10px white;
+}
+
+.bio-text {
+	font-size: 18px;
+	line-height: 30px;
+}
+
+.bio-text p {
+	margin-left: 200px;
+	line-height: 10px;
+}
+
+.caption {
+	font-size: 12px;
+}
+.timeline{
+	background-color: rgba(241, 226, 214, 0.25);
+	box-shadow: 20px 20px 20px #535a53;
+	font-family: Georgia;
+	padding: 25px 25px;
+	margin: 15px;
+	margin-top: 80px;
+	/* line-height: 30px; */
+	font-size: 18px;
+}
+.timeline h3,li{
+	line-height: 30px;
+}
+.conclusion{
+	background-color: rgba(241, 226, 214, 0.25);
+	box-shadow: 20px 20px 20px #535a53;
+	font-family: Georgia;
+	padding: 25px 25px;
+	margin: 15px;
+	margin-top: 80px;
+	line-height: 30px;
+	font-size: 13px;
+}
+.conclusion p{
+	font-size: 16px;
+}
